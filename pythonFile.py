@@ -1,1 +1,1 @@
-print("imma Type Here a Python code ")
+print(" Here  is some Python code ")
